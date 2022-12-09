@@ -1,0 +1,24 @@
+@media only screen and (max-width: 738px) {
+    .prof_image {
+        content: url("../assets/cat.jpg")
+    }
+}
+
+@media only screen and (min-width: 739px) and (max-width:1039px) {
+    .prof_image {
+        content: url("../assets/kotik.jpeg")
+    }
+}
+
+@media only screen and (min-width: 1040px) {
+    .prof_image {
+        content: url("../assets/KOTYARA.jpg")
+    }
+}
+.list-group span {
+    margin-left: 10px;
+  }
+  
+  .list-group button {
+    margin-left: 10px;
+  }
